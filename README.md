@@ -1,4 +1,4 @@
-# Grapikya Yazılım ve Tasarım Ajansı
+# Grapikya Yazılım ve Tasarım
 
 Grapikya sitesinin rebrand yolculuğunda yeniden geliştirilerek tamamen open source hale getirilmiştir.
 
